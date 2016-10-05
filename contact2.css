@@ -3,7 +3,7 @@
 .form-line {
 
 	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
+	-webkit-box-smargin-top: -40pxizing: border-box;
 	box-sizing: border-box;
 }
 
@@ -98,7 +98,6 @@
 .form-all {
   background-color: #ffffff;
   border: 1px solid transparent;
-  margin-top: -40px;
 }
 
 
