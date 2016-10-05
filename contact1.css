@@ -109,7 +109,6 @@
 
     .form-all{
         margin:0px auto;
-        padding-top:20px;
         width:690px;
         color:#555 !important;
         font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, sans-serif;
@@ -572,7 +571,6 @@ li[data-type="control_image"] img {
 .form-all {
     border-radius : 10px;
     padding-left : 3%;
-    padding-top : 30px !important;
     padding-bottom : 50px !important;
 }
 
