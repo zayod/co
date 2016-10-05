@@ -71,7 +71,7 @@
     
     
 .form-all {
-  width: 65%;
+  width: 90%;
 }
 
 
@@ -98,7 +98,9 @@
 
 .form-all {
   background-color: #ffffff;
-  border: 1px solid transparent;
+  border: 1px solid transparent; 
+  width: 50%;
+
 }
 
 
