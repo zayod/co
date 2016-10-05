@@ -109,7 +109,6 @@
 
     .form-all{
         margin:0px auto;
-        width:50%;
         color:#555 !important;
         font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, sans-serif;
         font-size:14px;
@@ -126,7 +125,7 @@
   font-family: "Lucida Grande", sans-serif;
 }
 .form-all {
-  width: 690px;
+  width: 50%;
 }
 .form-label-left,
 .form-label-right {
